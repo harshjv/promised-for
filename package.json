@@ -1,0 +1,32 @@
+{
+  "name": "promised-for",
+  "version": "1.0.0",
+  "description": "Promised-for loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshjv/promised-for.git"
+  },
+  "keywords": [
+    "promise",
+    "for",
+    "loop",
+    "for",
+    "loop"
+  ],
+  "author": "Harsh Vakharia <harshjv@gmail.com> (https://harshjv.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshjv/promised-for/issues"
+  },
+  "homepage": "https://github.com/harshjv/promised-for#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
